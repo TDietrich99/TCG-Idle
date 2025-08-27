@@ -1,4 +1,4 @@
-import { ALL_CARDS } from "./card.js";
+﻿import { ALL_CARDS } from "./card.js";
 import { log } from "./debug.js";
 import { player } from "./player.js";
 import { update_ui } from "./ui.js";
@@ -11,6 +11,10 @@ export function update_game() {
 };
 
 export function init_game() {
-    ALL_CARDS.load();
-    player.load();
+    ALL_CARDS.load().then(() => {
+        player.load();
+        log("Game initialized");
+    }).catch(err => {
+        console.error("Fehler beim Laden der Karten:", err);
+    });
 }

@@ -1,4 +1,4 @@
-import { log } from "./debug.js";
+﻿import { log } from "./debug.js";
 import { Card } from "./card.js";
 import { map_to_obj, obj_to_map } from "./helper.js";
 import { update_collection } from "./ui.js";
@@ -7,7 +7,7 @@ class Player {
         this.reset();
     }
 
-    draw_card(amount = 10) {
+    draw_card(amount = 1) {
         let cards = [];
         for (let a = 0; a < amount; a++) {
             let card = new Card();
@@ -25,7 +25,7 @@ class Player {
             this.owned_cards.set(c.id, new Map());
         }
         let owned_rarity_map = this.owned_cards.get(c.id);
-        owned_rarity_map.set(c.rarity, (owned_rarity_map.get(c.rarity) || 0) + 1);
+        owned_rarity_map.set(c.print, (owned_rarity_map.get(c.print) || 0) + 1);
 
         this.owned_cards_obj = map_to_obj(this.owned_cards);
     }
@@ -45,7 +45,6 @@ class Player {
     }
 
     load() {
-        log("Loaded");
         const data = JSON.parse(localStorage.getItem("idleSave"));
         if (data) Object.assign(this, data);
         this.owned_cards = obj_to_map(this.owned_cards_obj);
@@ -55,6 +54,7 @@ class Player {
     delete() {
         this.reset();
         localStorage.removeItem("idleSave");
+        update_collection();
     }
 };
 

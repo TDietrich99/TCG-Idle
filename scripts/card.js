@@ -1,4 +1,4 @@
-import { log } from "./debug.js";
+﻿import { log } from "./debug.js";
 
 export class Card {
     constructor(card_id = null) {
@@ -59,7 +59,8 @@ export class Card {
         return pool[random_index];
     }
     get_card_by_id() {
-        return ALL_CARDS.content.find(c => c.id === this.id);
+        let ret = ALL_CARDS.content.find(c => c.id === this.id);
+        return ret;
     }
 }
 const PRINT = Object.freeze({
@@ -88,23 +89,32 @@ const rarity_chances = [
 ];
 
 
-function get_rarity_enum(value) {
+export function get_rarity_name(value) {
     return Object.keys(RARITY).find(key => RARITY[key] === value);
 }
-export let ALL_CARDS = {
-    content: [],
-    loaded: false,
 
+export function get_print_name(value) {
+    return Object.keys(PRINT).find(key => PRINT[key] === value);
+}
+
+class FULL_COLLECTION {
+    constructor() {
+        this.reset();
+    }
+    reset() {
+        this.content = [];
+    }
     async load() {
-        if (this.loaded) {
+        if (this.content !== null && this.content !== undefined && this.content.length != 0) {
             return this.content;
         }
         const resp = await fetch("./assets/cards/define.json");
         if (!resp.ok) {
-            throw new Error("Karten k�nnen nicht geladen werden");
+            throw new Error("Karten können nicht geladen werden");
         }
-        this.content = await resp.json();
-        this.loaded = true;
-        return this.content;
+        let ret = await resp.json();
+        log("Successfully loaded Cards");
+        if (ret) Object.assign(this.content, ret);
     }
 }
+export let ALL_CARDS = new FULL_COLLECTION();

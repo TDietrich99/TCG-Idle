@@ -1,0 +1,7 @@
+.collection_wrapper {
+    display: flex;
+    flex-flow: wrap;
+}
+.collection_wrapper .card{
+    border: 1px solid black;
+}

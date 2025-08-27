@@ -4,12 +4,11 @@ import { log } from "./debug.js";
 
 export function update_ui() {
 	document.getElementById("total_packs_opened").textContent = Math.floor(player.opened_packs_amount);
-	
 }
-export function update_collection(){
+export function update_collection() {
 	let collection = document.getElementById("collection");
 	collection.innerHTML = "";
-	for (let key of player.owned_cards.keys()) {
+	for (let key of [...player.owned_cards.keys()].sort((a, b) => a - b)) {
 		create_collection_div(collection, key);
 	}
 }
