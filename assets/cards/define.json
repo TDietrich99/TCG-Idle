@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 0,
+    "name": "Phantomfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 1,
+    "name": "Drachenbestie",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 2,
+    "name": "Eiskrieger",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 3,
+    "name": "Phantomdrache 97",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 4,
+    "name": "Lichtmagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 5,
+    "name": "Feuergolem",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 6,
+    "name": "Schattendrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 7,
+    "name": "Giftling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 8,
+    "name": "Schattenling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 9,
+    "name": "Eiswesen 9",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 10,
+    "name": "Eisgeist",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 11,
+    "name": "Windkrieger",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 12,
+    "name": "Wasserdämon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 13,
+    "name": "Wassergeist",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 14,
+    "name": "Lichtwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 15,
+    "name": "Schattenavatar",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 16,
+    "name": "Windgolem 71",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 17,
+    "name": "Schattenbestie 49",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 18,
+    "name": "Windavatar",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 19,
+    "name": "Eisdämon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 20,
+    "name": "Schattenavatar 38",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 21,
+    "name": "Stahlbestie",
+    "img": null,
+    "rarity": 3
+  },
+  {
+    "id": 22,
+    "name": "Giftfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 23,
+    "name": "Phantomdämon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 24,
+    "name": "Giftwesen 36",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 25,
+    "name": "Lichtgolem",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 26,
+    "name": "Wasseravatar 99",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 27,
+    "name": "Stahlbestie 45",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 28,
+    "name": "Phantombestie 2",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 29,
+    "name": "Stahlwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 30,
+    "name": "Blitzdämon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 31,
+    "name": "Stahlkrieger",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 32,
+    "name": "Lichtling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 33,
+    "name": "Blitzbestie 26",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 34,
+    "name": "Feuergeist",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 35,
+    "name": "Feuerfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 36,
+    "name": "Drachendrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 37,
+    "name": "Eisling",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 38,
+    "name": "Windwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 39,
+    "name": "Phantomling 10",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 40,
+    "name": "Giftavatar 4",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 41,
+    "name": "Stahldrache",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 42,
+    "name": "Erdmon 9",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 43,
+    "name": "Windgeist",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 44,
+    "name": "Giftbestie",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 45,
+    "name": "Eisbestie 70",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 46,
+    "name": "Drachendämon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 47,
+    "name": "Giftdrache 33",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 48,
+    "name": "Erdmon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 49,
+    "name": "Blitzgolem 33",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 50,
+    "name": "Phantomdrache 21",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 51,
+    "name": "Giftmon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 52,
+    "name": "Giftbestie 67",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 53,
+    "name": "Drachenling",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 54,
+    "name": "Wassergolem 1",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 55,
+    "name": "Feuerwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 56,
+    "name": "Erddämon",
+    "img": null,
+    "rarity": 3
+  },
+  {
+    "id": 57,
+    "name": "Blitzgeist 41",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 58,
+    "name": "Windfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 59,
+    "name": "Giftwesen",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 60,
+    "name": "Schattenmagus",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 61,
+    "name": "Lichtfürst 88",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 62,
+    "name": "Giftwesen 88",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 63,
+    "name": "Erdling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 64,
+    "name": "Feuermagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 65,
+    "name": "Schattenwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 66,
+    "name": "Eisdrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 67,
+    "name": "Erdling 71",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 68,
+    "name": "Drachengeist",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 69,
+    "name": "Windmon 62",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 70,
+    "name": "Windgolem",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 71,
+    "name": "Phantomkrieger",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 72,
+    "name": "Wasserbestie",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 73,
+    "name": "Phantomgolem",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 74,
+    "name": "Feuermon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 75,
+    "name": "Phantommagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 76,
+    "name": "Wasserwesen 8",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 77,
+    "name": "Eiskrieger 41",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 78,
+    "name": "Stahlmon",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 79,
+    "name": "Stahldrache 15",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 80,
+    "name": "Stahlgeist 55",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 81,
+    "name": "Eisgolem 93",
+    "img": null,
+    "rarity": 3
+  },
+  {
+    "id": 82,
+    "name": "Feuerdrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 83,
+    "name": "Lichtfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 84,
+    "name": "Schattenfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 85,
+    "name": "Wasserdämon 61",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 86,
+    "name": "Drachenfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 87,
+    "name": "Schattendämon",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 88,
+    "name": "Eiswesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 89,
+    "name": "Schattenbestie",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 90,
+    "name": "Erdgeist",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 91,
+    "name": "Feuerkrieger 95",
+    "img": null,
+    "rarity": 3
+  },
+  {
+    "id": 92,
+    "name": "Feuerkrieger",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 93,
+    "name": "Windling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 94,
+    "name": "Eisfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 95,
+    "name": "Eisavatar",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 96,
+    "name": "Blitzfürst",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 97,
+    "name": "Erdbestie 80",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 98,
+    "name": "Eisdrache 68",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 99,
+    "name": "Erdfürst 57",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 100,
+    "name": "Eisbestie",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 101,
+    "name": "Schattendrache 61",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 102,
+    "name": "Giftdrache",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 103,
+    "name": "Feueravatar",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 104,
+    "name": "Drachengolem",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 105,
+    "name": "Erdfürst 93",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 106,
+    "name": "Phantombestie 30",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 107,
+    "name": "Lichtwesen 48",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 108,
+    "name": "Wasserling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 109,
+    "name": "Blitzdrache 85",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 110,
+    "name": "Phantomwesen 95",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 111,
+    "name": "Wassergolem",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 112,
+    "name": "Windkrieger 82",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 113,
+    "name": "Phantomwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 114,
+    "name": "Giftgolem",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 115,
+    "name": "Feuerbestie",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 116,
+    "name": "Erdfürst",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 117,
+    "name": "Phantombestie 11",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 118,
+    "name": "Stahlfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 119,
+    "name": "Phantomdrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 120,
+    "name": "Schattengeist",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 121,
+    "name": "Giftfürst 62",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 122,
+    "name": "Stahlgeist",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 123,
+    "name": "Erdkrieger",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 124,
+    "name": "Blitzbestie",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 125,
+    "name": "Eisavatar 83",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 126,
+    "name": "Erdgolem",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 127,
+    "name": "Blitzwesen",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 128,
+    "name": "Wasserfürst",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 129,
+    "name": "Eisgolem",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 130,
+    "name": "Wassermagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 131,
+    "name": "Wasseravatar",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 132,
+    "name": "Blitzgeist",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 133,
+    "name": "Lichtmon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 134,
+    "name": "Feuerfürst 32",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 135,
+    "name": "Blitzling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 136,
+    "name": "Schattengolem",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 137,
+    "name": "Schattenavatar 83",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 138,
+    "name": "Blitzdrache",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 139,
+    "name": "Phantomling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 140,
+    "name": "Erdwesen 15",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 141,
+    "name": "Giftwesen 48",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 142,
+    "name": "Drachenling 97",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 143,
+    "name": "Windkrieger 17",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 144,
+    "name": "Stahlmagus",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 145,
+    "name": "Winddämon",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 146,
+    "name": "Eismagus 56",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 147,
+    "name": "Drachenkrieger 6",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 148,
+    "name": "Lichtmon 86",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 149,
+    "name": "Blitzgolem 65",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 150,
+    "name": "Wassermagus 62",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 151,
+    "name": "Eisdrache 92",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 152,
+    "name": "Blitzkrieger",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 153,
+    "name": "Giftavatar",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 154,
+    "name": "Feuerdämon",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 155,
+    "name": "Giftwesen 21",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 156,
+    "name": "Phantommon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 157,
+    "name": "Wassermon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 158,
+    "name": "Erdmagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 159,
+    "name": "Blitzmagus",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 160,
+    "name": "Erdwesen 68",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 161,
+    "name": "Drachenmagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 162,
+    "name": "Erddrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 163,
+    "name": "Giftfürst 20",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 164,
+    "name": "Drachenavatar",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 165,
+    "name": "Schattenkrieger",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 166,
+    "name": "Phantomgeist",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 167,
+    "name": "Windmon",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 168,
+    "name": "Schattenbestie 55",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 169,
+    "name": "Windmagus",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 170,
+    "name": "Wasserdämon 43",
+    "img": null,
+    "rarity": 4
+  },
+  {
+    "id": 171,
+    "name": "Feuerling",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 172,
+    "name": "Stahldämon 73",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 173,
+    "name": "Giftdrache 14",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 174,
+    "name": "Drachenmagus 51",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 175,
+    "name": "Feuerdämon 36",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 176,
+    "name": "Schattenmon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 177,
+    "name": "Lichtkrieger",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 178,
+    "name": "Schattengolem 24",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 179,
+    "name": "Blitzmon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 180,
+    "name": "Erddrache 89",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 181,
+    "name": "Erddämon 92",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 182,
+    "name": "Phantomavatar",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 183,
+    "name": "Wassergeist 42",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 184,
+    "name": "Schattenkrieger 55",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 185,
+    "name": "Phantommagus 22",
+    "img": null,
+    "rarity": 2
+  },
+  {
+    "id": 186,
+    "name": "Feuermagus 1",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 187,
+    "name": "Phantommon 95",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 188,
+    "name": "Wasserwesen",
+    "img": null,
+    "rarity": 1
+  },
+  {
+    "id": 189,
+    "name": "Giftdämon",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 190,
+    "name": "Lichtdrache",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 191,
+    "name": "Giftgeist",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 192,
+    "name": "Lichtmagus 51",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 193,
+    "name": "Phantomdämon 1",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 194,
+    "name": "Drachenwesen",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 195,
+    "name": "Blitzavatar",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 196,
+    "name": "Eisdämon 58",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 197,
+    "name": "Blitzgolem",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 198,
+    "name": "Blitzgeist 92",
+    "img": null,
+    "rarity": 0
+  },
+  {
+    "id": 199,
+    "name": "Lichtdämon",
+    "img": null,
+    "rarity": 1
+  }
+]

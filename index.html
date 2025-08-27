@@ -3,14 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <title>Mein Idle Spiel</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
-  <h1>?? Cookie Factory</h1>
-  <p>Cookies: <span id="cookies">0</span></p>
-  <button id="clickButton">Backe einen Cookie</button>
-  <button id="buyUpgrade">Upgrade kaufen (10 Cookies)</button>
+    <button id="save">Speichern</button>
+    <button id="load">Laden</button>
+    <button id="delete">Löschen</button>
+    <p>Packs opened: <span id="total_packs_opened"></span></p>
+    <button id="open_pack">Open a pack</button>
 
-  <script src="main.js"></script>
+    <div id="collection">
+
+    </div>
+    <script type="module" src="scripts/main.js"></script>
 </body>
 </html>
