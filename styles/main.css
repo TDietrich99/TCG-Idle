@@ -5,3 +5,8 @@
 .collection_wrapper .card{
     border: 1px solid black;
 }
+    .collection_wrapper .card .card_info {
+        display: flex;
+        flex-direction: column;
+    }
+

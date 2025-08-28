@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1300,
+    "name": "Thrognar der Dornbringer",
+    "img": null,
+    "value": 0.81
+  },
+  {
+    "id": 1301,
+    "name": "Felyxxar",
+    "img": null,
+    "value": 1.42
+  },
+  {
+    "id": 1302,
+    "name": "Schuppenroth Blutseele",
+    "img": null,
+    "value": 2.97
+  },
+  {
+    "id": 1303,
+    "name": "Knochenwolf Schattenherz",
+    "img": null,
+    "value": 1.4
+  },
+  {
+    "id": 1304,
+    "name": "Thyssthul Blutseele",
+    "img": null,
+    "value": 2.9
+  },
+  {
+    "id": 1305,
+    "name": "Mivorvorak Schattenherz",
+    "img": null,
+    "value": 2.96
+  },
+  {
+    "id": 1306,
+    "name": "Zyrrwolf",
+    "img": null,
+    "value": 2.54
+  },
+  {
+    "id": 1307,
+    "name": "Rabenthraghul der Dornbringer",
+    "img": null,
+    "value": 1.56
+  },
+  {
+    "id": 1308,
+    "name": "Kaelathul",
+    "img": null,
+    "value": 1.22
+  },
+  {
+    "id": 1309,
+    "name": "Velishydra",
+    "img": null,
+    "value": 1.77
+  },
+  {
+    "id": 1310,
+    "name": "Knochenschnapper",
+    "img": null,
+    "value": 1.77
+  },
+  {
+    "id": 1311,
+    "name": "Rabenvenak Blutseele",
+    "img": null,
+    "value": 2.13
+  },
+  {
+    "id": 1312,
+    "name": "Xyvorak",
+    "img": null,
+    "value": 2.24
+  },
+  {
+    "id": 1313,
+    "name": "Ulmaathul",
+    "img": null,
+    "value": 1.51
+  },
+  {
+    "id": 1314,
+    "name": "Zyrrschnapper",
+    "img": null,
+    "value": 1.8
+  },
+  {
+    "id": 1315,
+    "name": "Thyssschnapper Sturmpeitscher",
+    "img": null,
+    "value": 2.51
+  },
+  {
+    "id": 1316,
+    "name": "Nymorhaz der Dornbringer",
+    "img": null,
+    "value": 2.92
+  },
+  {
+    "id": 1317,
+    "name": "Ulmaarah",
+    "img": null,
+    "value": 2.73
+  },
+  {
+    "id": 1318,
+    "name": "Velisathul",
+    "img": null,
+    "value": 1.51
+  },
+  {
+    "id": 1319,
+    "name": "Nymorschnapper der Dornbringer",
+    "img": null,
+    "value": 0.68
+  },
+  {
+    "id": 1320,
+    "name": "Grukvenak",
+    "img": null,
+    "value": 1.38
+  },
+  {
+    "id": 1321,
+    "name": "Nymorvenak Schattenherz",
+    "img": null,
+    "value": 2.58
+  },
+  {
+    "id": 1322,
+    "name": "Throgkriecher Schattenherz",
+    "img": null,
+    "value": 1.86
+  },
+  {
+    "id": 1323,
+    "name": "Zenthkriecher Schattenherz",
+    "img": null,
+    "value": 0.97
+  },
+  {
+    "id": 1324,
+    "name": "Zyrrhydra Schattenherz",
+    "img": null,
+    "value": 1.5
+  },
+  {
+    "id": 1325,
+    "name": "Zyrrhydra der Dornbringer",
+    "img": null,
+    "value": 1.3
+  },
+  {
+    "id": 1326,
+    "name": "Velisthir",
+    "img": null,
+    "value": 2.12
+  },
+  {
+    "id": 1327,
+    "name": "Flammengar Blutseele",
+    "img": null,
+    "value": 1.28
+  },
+  {
+    "id": 1328,
+    "name": "Orrhxxar Eisfluch",
+    "img": null,
+    "value": 2.49
+  },
+  {
+    "id": 1329,
+    "name": "Knochenwolf",
+    "img": null,
+    "value": 1.75
+  },
+  {
+    "id": 1330,
+    "name": "Ulmathir Schattenherz",
+    "img": null,
+    "value": 2.31
+  },
+  {
+    "id": 1331,
+    "name": "Thysslyth",
+    "img": null,
+    "value": 0.74
+  },
+  {
+    "id": 1332,
+    "name": "Vorrhathul",
+    "img": null,
+    "value": 0.84
+  },
+  {
+    "id": 1333,
+    "name": "Schuppenpanther Sturmpeitscher",
+    "img": null,
+    "value": 1.28
+  },
+  {
+    "id": 1334,
+    "name": "Nymorhydra",
+    "img": null,
+    "value": 2.85
+  },
+  {
+    "id": 1335,
+    "name": "Orrhlyth",
+    "img": null,
+    "value": 1.1
+  },
+  {
+    "id": 1336,
+    "name": "Felythul",
+    "img": null,
+    "value": 1.74
+  },
+  {
+    "id": 1337,
+    "name": "Droxxhydra",
+    "img": null,
+    "value": 1.36
+  },
+  {
+    "id": 1338,
+    "name": "Kaelskra",
+    "img": null,
+    "value": 0.84
+  },
+  {
+    "id": 1339,
+    "name": "Ulmavorak",
+    "img": null,
+    "value": 2.47
+  },
+  {
+    "id": 1340,
+    "name": "Knochenschnapper der Dornbringer",
+    "img": null,
+    "value": 0.92
+  },
+  {
+    "id": 1341,
+    "name": "Velishaz Eisfluch",
+    "img": null,
+    "value": 0.8
+  },
+  {
+    "id": 1342,
+    "name": "Rabensara",
+    "img": null,
+    "value": 2.91
+  },
+  {
+    "id": 1343,
+    "name": "Vorrhhaz Schattenherz",
+    "img": null,
+    "value": 0.87
+  },
+  {
+    "id": 1344,
+    "name": "Flammenhydra",
+    "img": null,
+    "value": 2.09
+  },
+  {
+    "id": 1345,
+    "name": "Nebelthraghul Eisfluch",
+    "img": null,
+    "value": 0.95
+  },
+  {
+    "id": 1346,
+    "name": "Nymorlyth der Dornbringer",
+    "img": null,
+    "value": 2.19
+  },
+  {
+    "id": 1347,
+    "name": "Droxxroth",
+    "img": null,
+    "value": 1.69
+  },
+  {
+    "id": 1348,
+    "name": "Droxxsara Sturmpeitscher",
+    "img": null,
+    "value": 2.74
+  },
+  {
+    "id": 1349,
+    "name": "Thyssthraghul Schattenherz",
+    "img": null,
+    "value": 2.39
+  }
+]
