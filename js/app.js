@@ -1,10 +1,15 @@
-function App() {
+import { useEffect, useState } from "react";
+import { createRoot } from "react-dom/client";
+import { game as gameInstance } from "./game";
 
-    const [, forceUpdate] =
-        React.useState(0);
+
+function App() {
+    const [game] = useState(() => gameInstance);
+
+    const [, forceUpdate] = useState(0);
 
     // UI refresh
-    React.useEffect(() => {
+    useEffect(() => {
 
         const interval = setInterval(() => {
             forceUpdate(v => v + 1);
@@ -21,24 +26,32 @@ function App() {
 
             <div className="box">
                 <h2>
-                    Gold: {game.gold.display()}
+                    Gold: {game.player.money.display()}
                 </h2>
-
                 <button onClick={() => game.clickGold()}>
                     +1 Gold
                 </button>
-                <button onClick={() => game.clickGold2()}>
-                    *2 Gold
-                </button>
             </div>
 
+            <div className="box">
+                {game.player.dimensions.map((dim, index) =>(
+
+                    <div>
+                        <h2>Dimension {index + 1}: {dim.display()}</h2>
+                        <button onClick={()=>dim.buy(1)}>
+                            Buy 1: (Cost: {dim.getCost()})
+                        </button>
+                    </div>
+                ))}
+            </div>
+            <div>
+                <button onClick={()=>game.deleteGame()}>
+                    Hard Reset
+                </button>
+            </div>
         </div>
     );
 }
 
-const root =
-    ReactDOM.createRoot(
-        document.getElementById("root")
-    );
-
+const root = createRoot(document.getElementById("root"));
 root.render(<App />);

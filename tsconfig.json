@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "target": "ES2022",
+    "jsx": "react-jsx",
+
+    "strict": true,
+    "sourceMap": true,
+
+    "rootDir": "./js",
+    "outDir": "./js/compiled",
+    "skipLibCheck": true
+  },
+  "include": ["js"],
+  "exclude": ["node_modules"]
+}
